@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "time": {
+      "command": "uvx",
+      "args": ["mcp-server-time"]
+    },
+    "filesystem": {
+      "command": "node",
+      "args": [
+        "D:/bowen/MCP/servers/src/filesystem/dist/index.js",
+        "D:/bowen/Desktop",
+        "D:/bowen/Documents",
+        "D:/bowen/MCP"
+      ]
+    }
+  }
+} 
